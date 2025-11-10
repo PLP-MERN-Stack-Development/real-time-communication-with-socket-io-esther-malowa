@@ -1,6 +1,6 @@
 # Real-Time Chat Application with Socket.io
 
-This assignment focuses on building a real-time chat application using Socket.io, implementing bidirectional communication between clients and server.
+This assignment focuses on building a real-time chat application using Socket.io, implementing bidirectional communication between clients and the server.
 
 ## Assignment Overview
 
@@ -189,7 +189,7 @@ Loading and error states
  or Loom
  and embed it below:
 
-![Chat Page](./client/assets/chat page.PNG)
+![Chat_page](./client/assets/chat_page.PNG)
 ![Auth](./client/assets/Authentication.PNG)
 
 🧱 Tech Stack
